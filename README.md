@@ -3,6 +3,10 @@ SSH Keys
 
 Simplest role to map users with provided ssh keys.
 
+[![Ansible Role](https://img.shields.io/ansible/role/16211.svg)](https://galaxy.ansible.com/j0lly/ssh-keys/)
+[![Build Status](https://travis-ci.org/j0lly/ansible-role-ssh-keys.svg?branch=master)](https://travis-ci.org/j0lly/ansible-role-ssh-keys)
+
+
 Requirements
 ------------
 
@@ -53,4 +57,4 @@ BSD
 Author Information
 ------------------
 
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+j0lly - jos.ferraris@gmail.com

@@ -3,7 +3,7 @@ dependency:
   name: galaxy
 
 ansible:
-  verbose: vvv
+  verbose: v
   playbook: tests/playbook-test.yml
 
 driver:
